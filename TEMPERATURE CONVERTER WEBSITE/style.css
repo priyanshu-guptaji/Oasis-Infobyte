@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+input[type="text"], select, button {
+    font-size: 25px;
+}
+button {
+    cursor: pointer;
+}
+.whole{
+    background-color: rgb(76, 137, 137);
+    align-items: center;
+    border-radius: 50px;
+    padding: 80px;
+    margin: 80px;
+}
